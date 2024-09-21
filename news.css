@@ -1,0 +1,25 @@
+
+
+.newses{
+    background-image: url("https://png.pngtree.com/background/20240622/original/pngtree-world-newspapers-newsprint-communication-page-photo-picture-image_9439381.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    align-items:end;
+    margin-top: 10px;
+}
+.news{
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+button{
+     background-color: black;
+     height: 40px;
+     color: aliceblue;
+}
+button:hover{
+      background-color: rgb(120, 10, 137);
+}
